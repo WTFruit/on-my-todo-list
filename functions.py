@@ -1,4 +1,4 @@
-FILEPATH = "files/todos.txt"
+FILEPATH = "todos.txt"
 
 def file_io(data, filepath=FILEPATH, readwrite="r"):
     """ Accesses a file and either reads to it, or writes from it. If reading, returns a list object. """
